@@ -1,7 +1,7 @@
 ## PluginBuilder ##
 *Use DSL to plug-in your existing scripts*
 
-![alt text](plugin-builder-logo.jpg "PluginBuilder")
+<img src="plugin-builder-logo.jpg" width="48">
 
 ###Getting Started###
 
@@ -21,11 +21,10 @@
      
 Your plugin procedure is now available for use!
 
+###For additional information###
 
-> You can find more information:
-
-> - about **PluginBuilder** [here][1]
-> - about **ElectricFlow DSL** [here][2]
+- [PluginBuilder][1]
+- [ElectricFlow DSL][2]
 
 [1]: https://github.com/electric-cloud/PluginBuilder
 [2]: http://docs.electric-cloud.com/eflow_doc/7_0/API/HTML/APIflowHTML.htm#dsl/dslabout.htm 

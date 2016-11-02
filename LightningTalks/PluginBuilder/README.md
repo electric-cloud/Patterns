@@ -19,7 +19,7 @@
 3. Assign a version number to your plugin, e.g., 1.0.0. Edit
     META-INF/plugin.xml (key, version, label) with the name and version
     of your plugin.    
-4. Setup the directory structure for our sample procedure 'Perform Checks Using MyScript'.
+4. Setup the directory structure for your sample procedure 'Perform Checks Using MyScript'.
 
     ```
 	mkdir "MyPlugin/dsl/procedures/Perform Checks Using MyScript"

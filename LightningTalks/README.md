@@ -1,4 +1,5 @@
-###Advanced Patterns and Use Cases for DevOps at Scale with ElectricFlow – Lightning Talks Round###
+## Advanced Patterns and Use Cases for DevOps at Scale with ElectricFlow – Lightning Talks Round ##
+
 ###Presented at DevOps Enterprise Summit San Francisco, November 7-9, 2016###
 
 ####Description:####

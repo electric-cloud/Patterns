@@ -1,4 +1,4 @@
-## PluginBuilder ##
+## PluginWizard ##
 *Use DSL to plug-in your existing scripts*
 
 <img src="plugin-builder-logo.jpg" width="48">

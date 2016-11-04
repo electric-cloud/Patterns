@@ -4,16 +4,16 @@
 <img src="plugin-builder-logo.jpg" width="48">
 
 ###Getting Started###
-1. Download or clone the PluginBuilder repository.
+1. Download or clone the PluginWizard repository.
 
     ```
-	git clone https://github.com/electric-cloud/PluginBuilder.git
+	git clone https://github.com/electric-cloud/PluginWizard.git
     ```
 
 2. Copy to a new directory, say 'MyPlugin'.
 
     ```
-	cp -r PluginBuilder MyPlugin
+	cp -r PluginWizard MyPlugin
     ```
 
 3. Assign a version number to your plugin, e.g., 1.0.0. Edit
@@ -39,8 +39,8 @@ Your plugin procedure is now available for use!
 
 ###For additional information###
 
-- [PluginBuilder][1]
+- [PluginWizard][1]
 - [ElectricFlow DSL][2]
 
-[1]: https://github.com/electric-cloud/PluginBuilder
+[1]: https://github.com/electric-cloud/PluginWizard
 [2]: http://docs.electric-cloud.com/eflow_doc/7_0/API/HTML/APIflowHTML.htm#dsl/dslabout.htm 
